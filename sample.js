@@ -20,7 +20,7 @@ $(function(){
         move_to_id(hash);
 
         if(flg){
-            history.pushState({hash: hash}, "", "");
+            history.pushState({hash: hash}, null, null);
         }
 
     });
