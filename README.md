@@ -85,6 +85,11 @@ url引数を指定すると、URL欄に表示されますが、通常の画面�
 
 `pushState`で入れた履歴の場合、イベントオブジェクトにどのハッシュのところにいたかが付いてくるので、指定された場所に移動します。
 
+## 参考リンク
+
+* [Mozillaの解説](https://developer.mozilla.org/ja/docs/Web/Guide/DOM/Manipulating_the_browser_history)
+* [HTML5の仕様のHistoryオブジェクトのところ](http://www.w3.org/TR/html5/browsers.html#the-history-interface)
+* [同じくpopstateイベントのところ](http://www.w3.org/TR/html5/browsers.html#event-popstate)
 
 
 
